@@ -1,0 +1,19 @@
+{
+    "register_form": "Форма регистрации",
+    "full_name": "Полное имя",
+    "phone_number": "Номер телефона",
+    "email_address": "Адрес электронной почты",
+    "life_story": "История жизни",
+    "password": "Пароль",
+    "confirm_password": "Подтвердить пароль",
+    "submit_form": "Отправить форму",
+    "phone_format": "Формат телефона: (XXX)XXX-XXXX",
+    "keep_it_short": "Держите коротким, это всего лишь демонстрация",
+    "name_empty": "Введите ваше имя",
+    "phone_empty": "Введите номер телефона",
+    "email_empty": "Введите email",
+    "email_invalid": "Введите правильный email",
+    "password_empty": "Введите пароль",
+    "password_short": "Пароль должен быть не менее 6 символов",
+    "password_mismatch": "Пароли не совпадают"
+}

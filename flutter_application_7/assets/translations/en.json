@@ -1,0 +1,14 @@
+{
+    "title": "Registration Form",
+    "full_name": "Full Name",
+    "phone_number": "Phone Number",
+    "email_address": "Email Address",
+    "life_story": "Life Story",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "submit_form": "Submit Form",
+    "enter_email": "Enter email",
+    "enter_name": "Enter name",
+    "enter_password": "Enter password",
+    "password_mismatch": "Passwords do not match"
+  }
